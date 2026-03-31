@@ -15,7 +15,7 @@ namespace GestionaleFormatica
         {
             CreaTabellaUsers();
             RefreshTabella();
-
+            Messagebox.Show("Ciao!");
         }
 
         private void RefreshTabella()
